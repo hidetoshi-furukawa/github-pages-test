@@ -7,7 +7,6 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
-- [Table of Contents](#table-of-contents)
 - [Results](#results)
 	- [3rd submission (Tag 1.2.0)](#3rd-submission-tag-120)
 	- [2nd submission (Tag 1.1.0)](#2nd-submission-tag-110)
@@ -18,13 +17,6 @@
 - [Submission checklist and requirements](#submission-checklist-and-requirements)
 - [System Architecture](#system-architecture)
 - [Code Structure](#code-structure)
-	- [(path_to_project_repo)/ros/src/tl_detector/](#pathtoprojectreporossrctldetector)
-	- [(path_to_project_repo)/ros/src/waypoint_updater/](#pathtoprojectreporossrcwaypointupdater)
-	- [(path_to_project_repo)/ros/src/twist_controller/](#pathtoprojectreporossrctwistcontroller)
-		- [(path_to_project_repo)/ros/src/styx/](#pathtoprojectreporossrcstyx)
-		- [(path_to_project_repo)/ros/src/styx_msgs/](#pathtoprojectreporossrcstyxmsgs)
-		- [(path_to_project_repo)/ros/src/waypoint_loader/](#pathtoprojectreporossrcwaypointloader)
-		- [(path_to_project_repo)/ros/src/waypoint_follower/](#pathtoprojectreporossrcwaypointfollower)
 - [Traffic Light Detection](#traffic-light-detection)
 	- [Model for Simulator](#model-for-simulator)
 	- [Model for Site](#model-for-site)
